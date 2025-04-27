@@ -64,7 +64,7 @@ hr {
 	max-width: 1000px;
 }
 
-.header {
+header {
 	background-color: #64bcda;
 	border-bottom: 8px solid #000000;
 	margin-bottom: 3.2rem;
@@ -92,7 +92,7 @@ hr {
 	text-transform: uppercase;
 }
 
-.main-article {
+section {
 	background-color: #e2e2e2;
 	padding: 1.6rem;
 	width: 100%;
@@ -159,7 +159,7 @@ hr {
 	display: block;
 }
 
-.footer {
+footer {
 	text-align: center;
 }
 
